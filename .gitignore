@@ -10,8 +10,6 @@ TODO.md
 tests/QA.md
 .playwright-cli/
 integration/native-host.cmd
-.env
-.env.*
 !.env.example
 *.pem
 *.pfx
@@ -21,3 +19,4 @@ coverage/
 .local-evidence/
 *.log
 test-results/
+config.bat
